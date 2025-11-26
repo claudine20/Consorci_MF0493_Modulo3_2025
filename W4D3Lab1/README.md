@@ -1,4 +1,4 @@
--- Este es un breve README que describe cómo compilar y ejecutar a través de Docker, mostrando todos los comandos utilizados durante este laboratorio -- 
+Este es un breve README que describe cómo compilar y ejecutar a través de Docker, mostrando todos los comandos utilizados durante este laboratorio
 
 1- Crear  una red:
 $ docker network create my-network
